@@ -1,6 +1,6 @@
 # Employee Management System - Full Stack CRUD Application
 
-A full-stack web application developed as a practical assignment for **Lesson 08: Backend with MongoDB** This project demonstrates a complete CRUD (Create, Read, Update, Delete) workflow using Spring Boot for the backend and a Vanilla JavaScript frontend, connected to a MongoDB Atlas database.
+A full-stack web application developed **Backend with MongoDB** This project demonstrates a complete CRUD (Create, Read, Update, Delete) workflow using Spring Boot for the backend and a Vanilla JavaScript frontend, connected to a MongoDB Atlas database.
 
 ## 📘 Project Overview
 This application serves as a demo for connecting a Spring Boot RESTful API with a NoSQL database (MongoDB) and consuming that API using a simple frontend interface.
