@@ -17,9 +17,9 @@ This application serves as a demo for connecting a Spring Boot RESTful API with 
 
 **Backend:**
 * **Java** (JDK 17 or 21)
-**Spring Boot** (v3.x)
-**Dependencies:** Spring Web, Spring Data MongoDB
-**Build Tool:** Maven 
+* **Spring Boot** (v3.x)
+* **Dependencies:** Spring Web, Spring Data MongoDB
+* **Build Tool:** Maven 
 
 **Database:**
 **MongoDB Atlas** (Cloud NoSQL Database)
